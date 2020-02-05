@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://laravelpb.github.io/static/css/main.0f86a802.chunk.css",
+    "main.js": "https://laravelpb.github.io/static/js/main.364cdd33.chunk.js",
+    "main.js.map": "https://laravelpb.github.io/static/js/main.364cdd33.chunk.js.map",
+    "runtime-main.js": "https://laravelpb.github.io/static/js/runtime-main.ee7ba5c6.js",
+    "runtime-main.js.map": "https://laravelpb.github.io/static/js/runtime-main.ee7ba5c6.js.map",
+    "static/js/2.e6415c66.chunk.js": "https://laravelpb.github.io/static/js/2.e6415c66.chunk.js",
+    "static/js/2.e6415c66.chunk.js.map": "https://laravelpb.github.io/static/js/2.e6415c66.chunk.js.map",
+    "index.html": "https://laravelpb.github.io/index.html",
+    "precache-manifest.3636e1774055244548bc1589bca49bd8.js": "https://laravelpb.github.io/precache-manifest.3636e1774055244548bc1589bca49bd8.js",
+    "service-worker.js": "https://laravelpb.github.io/service-worker.js",
+    "static/css/main.0f86a802.chunk.css.map": "https://laravelpb.github.io/static/css/main.0f86a802.chunk.css.map",
+    "static/js/2.e6415c66.chunk.js.LICENSE.txt": "https://laravelpb.github.io/static/js/2.e6415c66.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://laravelpb.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee7ba5c6.js",
+    "static/js/2.e6415c66.chunk.js",
+    "static/css/main.0f86a802.chunk.css",
+    "static/js/main.364cdd33.chunk.js"
+  ]
+}
