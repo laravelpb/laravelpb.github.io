@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9f8245db650087668ffd97d34329f31",
+    "revision": "2cd0e4d48bc94b39d101a069875753ed",
     "url": "https://laravelpb.github.io/index.html"
   },
   {
-    "revision": "10f46e60d27099cc4a22",
+    "revision": "5b686e0f3ff7fd05b539",
     "url": "https://laravelpb.github.io/static/css/main.66ab4137.chunk.css"
   },
   {
-    "revision": "c299743621afa63d4c4e",
-    "url": "https://laravelpb.github.io/static/js/2.c696c082.chunk.js"
+    "revision": "6867121d4e2cb935df17",
+    "url": "https://laravelpb.github.io/static/js/2.0611b6b8.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "https://laravelpb.github.io/static/js/2.c696c082.chunk.js.LICENSE.txt"
+    "url": "https://laravelpb.github.io/static/js/2.0611b6b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10f46e60d27099cc4a22",
-    "url": "https://laravelpb.github.io/static/js/main.c6372c2c.chunk.js"
+    "revision": "5b686e0f3ff7fd05b539",
+    "url": "https://laravelpb.github.io/static/js/main.02ff05cf.chunk.js"
   },
   {
     "revision": "04a9a87abfc76bb445d0",
