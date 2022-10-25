@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://laravelpb.github.io/precache-manifest.c7c194ca0cc21fdfc5e4843ccf709198.js"
+  "https://laravelpb.github.io/precache-manifest.8be4f4370f3f6a46f51fbc5ceb92c26d.js"
 );
 
 self.addEventListener('message', (event) => {
